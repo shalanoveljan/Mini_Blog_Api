@@ -1,0 +1,17 @@
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\bin\Debug\net7.0\Blog.Data.deps.json
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\bin\Debug\net7.0\Blog.Data.dll
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\bin\Debug\net7.0\Blog.Data.pdb
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.dll
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\refint\Blog.Data.dll
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.pdb
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\ref\Blog.Data.dll
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\bin\Debug\net7.0\Blog.Data.runtimeconfig.json
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\bin\Debug\net7.0\Blog.Core.dll
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\bin\Debug\net7.0\Blog.Core.pdb
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.Up2Date
+C:\Users\OMEN\Desktop\ElcanFiles\BackEnd\MY_Projects\Blog.Data\obj\Debug\net7.0\Blog.Data.genruntimeconfig.cache
